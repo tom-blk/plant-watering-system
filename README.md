@@ -22,8 +22,8 @@
 ### Features
 - [ ] Design waterflow for hose (size of holes etc.) for multiple pots
 
-### Top contributors:
+### Contributors:
 
 <a href="https://github.com/tom-blk/plant-watering-system/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=tom-blk/plant-watering-system" alt="contrib.rocks image" />
 </a>
